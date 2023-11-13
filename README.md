@@ -1,4 +1,9 @@
 ### Hi there 👋
+#### Backend/Frontend/DevOPS I'm a multi-faceted IT guy !
+I'm a programmer from 2008 (mostly in PHP/MySQL/Javascript), but I try to reach a new level by studying in 42Paris shcool !
+ - 🔭 I’m currently working on be a better programmer (It's a never ending journey ! 😄).
+ - 🌱 I’m currently learning C language.
+ - ✨ I like to teacth programming to friends and share my knowleges.
 
 <!--
 **ftripoli/ftripoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C language
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
