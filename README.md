@@ -3,9 +3,9 @@
 I'm a programmer from 2008 (mostly in PHP/MySQL/Javascript), but I try to reach a new level by studying in 42Paris shcool !
  - 🔭 I’m currently working on being a better programmer (It's a never ending journey ! 😄).
  - 🌱 I’m currently learning C language at 42 Paris School.
- - ✨ I like to teacth programming to friends and share my knowleges.
+ - ✨ I like to teach programming to friends and share my knowleges.
 
-#### My Teatcher Website ####
+#### My tacher Website ####
 Here you can hire me :
 https://ftripoli.github.io/FormationsInformatiqueUniverselles/
 
